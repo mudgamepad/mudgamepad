@@ -28,7 +28,7 @@ Software engineering student with a strong interest in web development and proje
 ### Projects 📂
 
 #### 🟥 Mock Social Media Platform
-• Users can create, manage, and delete their accounts
+• Users can create, manage, and delete their accounts<br>
 • Implemented CSV-backed database using C<br>
 • Managed database-related files with Bash scripts<br>
 
