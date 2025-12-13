@@ -21,7 +21,7 @@ I'm a software engineering student with a strong interest in web development and
 
 • :computer: Experience in full-stack development using framework such Spring<br>
 • :penguin: Professional experience in validating software products quality in the Linux environment<br>
-• :memo: 3+ years of experience in programming and is proficient in languages such as Python, Java, C<br>
+• :memo: 3+ years of experience in programming and proficient in languages such as Python, Java, C<br>
 • :white_check_mark: Developed tests using methodologies like TDD and agile testing<br>
 • :gear: Digital hardware design using vhdl, assembly<br>
 
