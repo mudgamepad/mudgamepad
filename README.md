@@ -39,18 +39,18 @@ Software engineering student with experiences in web development and project man
 #### 🟦 <span style="color:blue">Knight's Tour Problem</span>
 • Solved the problem that returns a path which a knight can visit each square exactly once on an n*n chess board<br>
 
-#### <span style="color:blue">Game Borrowing Web Platform</span>
+#### 🟩 <span style="color:blue">Game Borrowing Web Platform</span>
 • Users can borrow games and host gaming events<br>
 • Developed the platform using Java, SQL, and Spring framework<br>
 • Implemented the persistence layer using CRUD operations<br>
 • Wrote unit tests and integration tests using Mockito<br>
 • Developed frontend using Vue.js framework<br>
 
-#### <span style="color:blue">Hotel Chain Management Platform</span>
+#### 🟧 <span style="color:blue">Hotel Chain Management Platform</span>
 • The system helps hotel administrators monitor and assign tasks efficiently<br>
 • Implemented the backend using Java, SQL and the frontend using JavaFX<br>
 
-#### <span style="color:blue">Catch Falling Objects Game</span>
+#### 🟪 <span style="color:blue">Catch Falling Objects Game</span>
 • User moves an object to catch falling objects<br>
 • Designed the game using C and Assembly<br>
 
