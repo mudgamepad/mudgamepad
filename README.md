@@ -28,12 +28,13 @@ Software engineering student with experiences in web development and project man
 ### Projects 📂
 
 #### <span style="color:blue">Mock Social Media Platform</span>
+• Users can create, manage, and delete their accounts
 • Implemented CSV-backed database using C<br>
 • Managed database-related files with Bash scripts<br>
 
 #### <span style="color:blue">Fisher's Iris Data Visualizing Tool</span>
-• Visualized data using R<br>
-• Analyzed scatterplots, boxplots, regressions<br>
+• The tool helps analyze scatterplots, boxplots, regressions of Fisher's Iris<br>
+• Developed the tool using R<br>
 
 #### <span style="color:blue">Knight's Tour Problem</span>
 • Solved the problem that returns a path which a knight can visit each square exactly once on an n*n chess board<br>
@@ -46,8 +47,8 @@ Software engineering student with experiences in web development and project man
 • Developed frontend using Vue.js framework<br>
 
 #### <span style="color:blue">Hotel Chain Management Platform</span>
-• Implemented the backend using Java, SQL and the frontend using JavaFX<br>
 • The system helps hotel administrators monitor and assign tasks efficiently<br>
+• Implemented the backend using Java, SQL and the frontend using JavaFX<br>
 
 #### <span style="color:blue">Catch Falling Objects Game</span>
 • User moves an object to catch falling objects<br>
