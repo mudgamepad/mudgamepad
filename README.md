@@ -19,10 +19,10 @@ I'm a software engineering student with experiences in web development and proje
 
 ### Profile 😄
 
-• :computer: Professional experience in full-stack development using framework such as ASP.NET
-• :penguin: Professional experience in validating software products quality in the Linux environment
-• :memo: 4+ years of experience in programming and is proficient in languages such as Python, Java, C
-• :white_check_mark: Developed tests using methodologies like TDD and agile testing
-• :gear: Digital hardware design using vhdl, assembly
+• :computer: Professional experience in full-stack development using framework such as ASP.NET<br>
+• :penguin: Professional experience in validating software products quality in the Linux environment<br>
+• :memo: 4+ years of experience in programming and is proficient in languages such as Python, Java, C<br>
+• :white_check_mark: Developed tests using methodologies like TDD and agile testing<br>
+• :gear: Digital hardware design using vhdl, assembly<br>
 
 
