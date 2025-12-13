@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineering student with a strong interest in web development and project management
+I'm a software engineering student with a strong interest in web development and project management
 
 ### Profile 😄
 
