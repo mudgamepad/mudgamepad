@@ -27,16 +27,16 @@ Software engineering student with experiences in web development and project man
 
 ### Projects 📂
 
-#### <span style="color:blue">Mock Social Media Platform</span>
+#### 🟥 <span style="color:blue">Mock Social Media Platform</span>
 • Users can create, manage, and delete their accounts
 • Implemented CSV-backed database using C<br>
 • Managed database-related files with Bash scripts<br>
 
-#### <span style="color:blue">Fisher's Iris Data Visualizing Tool</span>
+#### 🟨 <span style="color:blue">Fisher's Iris Data Visualizing Tool</span>
 • The tool helps analyze scatterplots, boxplots, regressions of Fisher's Iris<br>
 • Developed the tool using R<br>
 
-#### <span style="color:blue">Knight's Tour Problem</span>
+#### 🟦 <span style="color:blue">Knight's Tour Problem</span>
 • Solved the problem that returns a path which a knight can visit each square exactly once on an n*n chess board<br>
 
 #### <span style="color:blue">Game Borrowing Web Platform</span>
