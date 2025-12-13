@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineering student with experiences in web development and project management
+Software engineering student with a strong interest in web development and project management
 
 ### Profile 😄
 
@@ -27,32 +27,35 @@ Software engineering student with experiences in web development and project man
 
 ### Projects 📂
 
-#### 🟥 <span style="color:blue">Mock Social Media Platform</span>
+#### 🟥 Mock Social Media Platform
 • Users can create, manage, and delete their accounts
 • Implemented CSV-backed database using C<br>
 • Managed database-related files with Bash scripts<br>
 
-#### 🟨 <span style="color:blue">Fisher's Iris Data Visualizing Tool</span>
+#### 🟨 Fisher's Iris Data Visualizing Tool
 • The tool helps analyze scatterplots, boxplots, regressions of Fisher's Iris<br>
 • Developed the tool using R<br>
 
-#### 🟦 <span style="color:blue">Knight's Tour Problem</span>
+#### 🟦 Knight's Tour Problem
 • Solved the problem that returns a path which a knight can visit each square exactly once on an n*n chess board<br>
 
-#### 🟩 <span style="color:blue">Game Borrowing Web Platform</span>
+#### 🟩 Game Borrowing Web Platform
 • Users can borrow games and host gaming events<br>
 • Developed the platform using Java, SQL, and Spring framework<br>
 • Implemented the persistence layer using CRUD operations<br>
 • Wrote unit tests and integration tests using Mockito<br>
 • Developed frontend using Vue.js framework<br>
 
-#### 🟧 <span style="color:blue">Hotel Chain Management Platform</span>
+#### 🟧 Hotel Chain Management Platform
 • The system helps hotel administrators monitor and assign tasks efficiently<br>
 • Implemented the backend using Java, SQL and the frontend using JavaFX<br>
 
-#### 🟪 <span style="color:blue">Catch Falling Objects Game</span>
+#### 🟪 Catch Falling Objects Game
 • User moves an object to catch falling objects<br>
 • Designed the game using C and Assembly<br>
 
+#### 🟫 Digital Radio Frequency Mixer
+• Designed a radio frequency mixer circuit using Virtuoso
+• Analyzed pss and pnoise of the circuit using Spectre engine
 
 
