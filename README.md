@@ -55,7 +55,7 @@ I'm a software engineering student with a strong interest in web development and
 • Designed the game using C and Assembly<br>
 
 #### 🟫 Digital Radio Frequency Mixer
-• Designed a radio frequency mixer circuit using Virtuoso
-• Analyzed pss and pnoise of the circuit using Spectre engine
+• Designed a radio frequency mixer circuit using Virtuoso<br>
+• Analyzed pss and pnoise of the circuit using Spectre engine<br>
 
 
