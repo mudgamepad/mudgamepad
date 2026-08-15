@@ -58,4 +58,15 @@ I'm a software engineering student with a strong interest in web development and
 • Designed a radio frequency mixer circuit using Virtuoso<br>
 • Analyzed pss and pnoise of the circuit using Spectre engine<br>
 
+#### ⬛ Household Expense Tracker
+• Enables users to manage household expenses, categorize shared expenses with splits and voting<br>
+• Developed full-stack app using FastAPI and Flutter<br>
+• Used uv for dependency management and ruff for code quality<br>
 
+#### ⬜ Mini Operating System
+• Designed a mini operating system supporting process scheduling, virtual memory management, and multithreaded execution<br>
+• Implemented main functionalities using C<br>
+
+#### <span style="color: #006400;">■</span> Course Planning System
+• Defined DSL and metamodel to structure course requirements and program workflows<br>
+• Defined model-to-text rules using Acceleo to transform DSL-based scripts into web pages<br>
