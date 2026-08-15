@@ -67,6 +67,6 @@ I'm a software engineering student with a strong interest in web development and
 • Designed a mini operating system supporting process scheduling, virtual memory management, and multithreaded execution<br>
 • Implemented main functionalities using C<br>
 
-#### <span style="color: #006400;">■</span> Course Planning System
+#### 🟢 Course Planning System
 • Defined DSL and metamodel to structure course requirements and program workflows<br>
 • Defined model-to-text rules using Acceleo to transform DSL-based scripts into web pages<br>
